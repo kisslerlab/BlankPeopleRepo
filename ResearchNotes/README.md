@@ -1,0 +1,3 @@
+# Research notes
+
+This folder is for any research notes you'd like to eventually become part of the lab's legacy (i.e., things you'd like to pass on to future members). I'd love it if that meant all of your research notes end up here, but I also recognize that note-taking styles differ hugely, and I want you to do what works for you - which might mean keeping a separate physical notebook that only you see, or local files on your computer that only end up here once they're cleaned up a bit. The more you add here, the better; but ultimately the space is yours! 

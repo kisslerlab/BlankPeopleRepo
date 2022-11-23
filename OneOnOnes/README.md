@@ -1,0 +1,3 @@
+# One-on-ones
+
+This folder is for all things related to our one-on-one meetings. I recommend having a sub-folder here for each meeting date. If there's something you'd like me to look at before our meeting, put it here, in the folder with the relevant meeting date (and prod me on Slack to make sure I know it's there!). You can also keep notes you take during/after our meetings here - whatever's helpful for you. 
